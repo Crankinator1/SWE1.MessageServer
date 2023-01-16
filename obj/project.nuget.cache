@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DR+mKegfk05Swb1m67qAc+2kCk6OdLVy3cJL/cc4O2/aKTNV3sWsCMiIVBCxtit852qL+Mfo+OxSvLfwU8wbeA==",
+  "success": true,
+  "projectFilePath": "/Users/Felix/Desktop/sw1 message 13.1/SWE1.MessageServer/SWE1.MessageServer/SWE1.MessageServer.csproj",
+  "expectedPackageFiles": [
+    "/Users/Felix/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/Felix/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/Felix/.nuget/packages/npgsql/7.0.1/npgsql.7.0.1.nupkg.sha512",
+    "/Users/Felix/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
